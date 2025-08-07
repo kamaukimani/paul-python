@@ -4,3 +4,9 @@ function:counter time taken 0.0010890960693359375 seconds
 function:sum time taken 0.0001087188720703125 seconds 
 function:counter time taken 0.014772415161132812 seconds 
 function:sum time taken 0.0001857280731201172 seconds 
+function:counter time taken 0.011255741119384766 seconds 
+function:sum time taken 9.036064147949219e-05 seconds 
+function:counter time taken 0.010333061218261719 seconds 
+function:sum time taken 0.00011920928955078125 seconds 
+function:counter time taken 131.6544644832611 seconds 
+function:sum time taken 0.00015997886657714844 seconds 
