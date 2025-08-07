@@ -23,8 +23,8 @@ def write_file(f_name,txt):
         
 @logger
 def counter():
-    for n in range (0,1000):
-    #for n in range(0,10000000):
+    #for n in range (0,1000):
+    for n in range(0,10000000):
         print(n)
 counter()
 @logger
